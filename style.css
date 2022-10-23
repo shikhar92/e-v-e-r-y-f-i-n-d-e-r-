@@ -1,0 +1,43 @@
+body{
+
+background-size: cover;
+
+}
+
+.heading{
+
+width: 100%;
+margin: 0px;
+font-size: 25px;
+background:linear-gradient(blue,purple) ;
+font-weight: bold;
+mix-blend-mode: difference;
+
+}
+
+.footer{
+
+position: fixed;
+bottom:0;
+width:100%;
+text-align: center;
+font-weight: bold;
+background-color: white;
+
+}
+
+#objname{
+
+border: 2px lightgreen solid;
+border-radius: 5px;
+padding:5px;
+width: 50%;
+
+}
+
+canvas{
+
+border: 5px solid greenyellow;
+margin-top: 100px;
+
+}
